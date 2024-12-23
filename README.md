@@ -1,8 +1,5 @@
 
-
-
 # **Rapport sur l'amélioration de l'interface utilisateur**
-
 ---
 
 ## **I. Suggestions pour les Splash Screens(Intro Animation)**
@@ -23,7 +20,7 @@
 - **Assurez la Réactivité :** Concevez les animations pour qu’elles fonctionnent sans accroc sur tous les appareils et toutes les tailles d’écran.  
 - **Intégration de la Marque :** Utilisez des couleurs, une typographie et des éléments cohérents avec l’identité de votre marque.  
 - **Optimisez la Performance :** Assurez-vous que les animations ne ralentissent pas le site, surtout pour les utilisateurs avec des connexions plus lentes.  
-## **I. Barre de Navigation**
+## **II. Barre de Navigation**
 
 ![image](https://github.com/user-attachments/assets/cdf097ac-ae56-43d9-8cce-787d7f96e17c)
 
@@ -55,7 +52,7 @@
 
 ---
 
-## **II. Page d'Accueil**
+## **III. Page d'Accueil**
 
 ![image](https://github.com/user-attachments/assets/5894129b-b671-4219-8bdf-2319181db4be)
 ![image](https://github.com/user-attachments/assets/268d55e8-3d0d-4645-9352-39222f7c57d1)
@@ -79,7 +76,7 @@
 
 ---
 
-## **III. Footer Page**
+## **IV. Footer Page**
 
 ![image](https://github.com/user-attachments/assets/db474e26-0ad1-4576-b28b-bce4476c82a5)
 
