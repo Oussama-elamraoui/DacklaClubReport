@@ -3,12 +3,32 @@
 
 # **Rapport sur l'amélioration de l'interface utilisateur**
 
+---
 
+## **I. Suggestions pour les Splash Screens(Intro Animation)**
+
+1. **Animation du Logo :**  
+   - **Fade In/Out :** Le logo apparaît en douceur, reste visible brièvement, puis disparaît.  
+   - **Effet de Zoom :** Le logo effectue un zoom avant ou arrière de manière dynamique pour attirer l’attention.  
+   - **Animation de Traçage :** Utilisez une animation qui "dessine" le logo (par exemple, des animations de trait pour les logos avec des contours).  
+   - **Morphing de Formes :** Transformation créative de formes abstraites pour faire apparaître le logo.  
+
+2. **Transitions vers la Page d’Accueil :**  
+   - **Transition en Glissement :** L’écran de démarrage glisse pour dévoiler la page d’accueil.  
+   - **Fondu vers le Contenu :** L’écran de démarrage disparaît en fondu pour intégrer la page d’accueil en douceur.  
+
+#### **Bonnes Pratiques**  
+- **Gardez-le Court :** Limitez le splash screen à 2–3 secondes pour ne pas frustrer les utilisateurs.  
+- **Effets Subtils :** Évitez les animations trop voyantes ou longues qui pourraient détourner les utilisateurs.  
+- **Assurez la Réactivité :** Concevez les animations pour qu’elles fonctionnent sans accroc sur tous les appareils et toutes les tailles d’écran.  
+- **Intégration de la Marque :** Utilisez des couleurs, une typographie et des éléments cohérents avec l’identité de votre marque.  
+- **Optimisez la Performance :** Assurez-vous que les animations ne ralentissent pas le site, surtout pour les utilisateurs avec des connexions plus lentes.  
 ## **I. Barre de Navigation**
 
 ![image](https://github.com/user-attachments/assets/cdf097ac-ae56-43d9-8cce-787d7f96e17c)
 
----
+![image](https://github.com/user-attachments/assets/e4a683ae-88f6-4934-8c76-bde2a347c000)
+
 
 #### **1. Améliorations des Couleurs**
 - **Couleur de Fond** :
@@ -38,6 +58,8 @@
 ## **II. Page d'Accueil**
 
 ![image](https://github.com/user-attachments/assets/5894129b-b671-4219-8bdf-2319181db4be)
+![image](https://github.com/user-attachments/assets/268d55e8-3d0d-4645-9352-39222f7c57d1)
+
 
 1. **Background** :
    - Ajoutez un dégradé subtil ou un fond texturé pour rendre la section visuellement attrayante. Par exemple :
@@ -57,7 +79,7 @@
 
 ---
 
-## **III. Barre de Pied de Page**
+## **III. Footer Page**
 
 ![image](https://github.com/user-attachments/assets/db474e26-0ad1-4576-b28b-bce4476c82a5)
 
@@ -80,7 +102,7 @@
 5. **Alignement** :
    - Assurez-vous que tous les éléments sont parfaitement alignés pour un aspect plus net (par exemple, les blocs de texte dans le pied de page et les sections d'avis doivent être alignés de manière cohérente).
 
-### **Suggestions d'Animations**
+#### **Suggestions d'Animations**
  **Section du Pied de Page** :
    - Introduisez un effet de fondu lorsqu'un utilisateur fait défiler jusqu'au pied de page pour une apparition fluide.
    - Ajoutez une animation pour les icônes (par exemple, les icônes de réseaux sociaux et de paiement pourraient tourner doucement ou s'agrandir au survol).
